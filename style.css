@@ -1,0 +1,121 @@
+*{
+    font-family: "Inter", serif;
+    color: black;
+    
+}
+body{
+    background-color: #F9EFE4;
+}
+header{
+    margin-top: 10px;
+}
+ 
+.request-btn{
+    border: 1px solid black; 
+    border-radius: 20px;
+    justify-content: center;
+    padding: 10px 18px;
+    font-size: 11px;
+    
+}
+.start-btn{
+     border-radius: 20px; 
+     background-color:#176AE5; 
+     color: white;
+     justify-content: center;
+     border: none;
+     padding: 8px 30px ;
+}
+.bannercontent{
+    justify-content: center;
+    text-align: center;
+}
+.mainbtn{
+    padding: 10px 30px;
+    justify-content: center;
+    text-align: center;
+}
+.mainbtn input{
+    padding: 20px;
+    border-radius: 40px;
+}
+.mainbtn button{
+    padding: 20px 30px;
+    border-radius: 50px;
+    background-color: #176AE5;
+    color: white;
+    border: none;
+}
+.main-img img{
+    width:1300px;
+}
+.info row{
+    text-align: center;
+    justify-content: center;
+}
+.list{
+    list-style: none;
+}
+.list li{
+    background-color: white;
+    text-align: center;
+    padding: 11px;
+    border-radius: 5px;
+}
+.bannercontent button{
+    border-radius: 40px;
+    padding: 11px 50px;
+}
+.cards h2{
+    background-color: white; 
+    text-align: center;
+    border-radius: 5px;
+    padding: 60px 10px;
+}
+.thaught{
+    text-align: center;
+}
+.f-card{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 11px;
+    padding: 20px;
+    margin: 1px;
+}
+.f2-card{
+    background-color: white;
+    border: 2px;
+     
+    text-align: center;
+    border-radius: 11px;
+    padding: 20px;
+    margin-left: 50px;
+}
+.f2-card p{
+    font-size: 31px;
+}
+.f2-card sup{
+    background-color: white;
+}
+.f2-card sub{
+    background-color: white;
+}
+.f2-card span{
+    background-color: white;
+}
+.f2-card p{
+    background-color: white;
+}
+.card-info span{
+    margin-left: 0;
+
+}
+.card-info{
+    border-radius: 11px;
+}
+.card-info img{
+    margin-left: 300px;
+}
+.card-info mark{
+    background-color: #EEBACB;
+}
